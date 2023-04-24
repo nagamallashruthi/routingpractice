@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.wave {
+  height: 30px;
+  width: 30px;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+.header-page {
+  display: flex;
+  justify-content: space-between;
+}
+.p {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #12022f;
+  display: flex;
+  list-style-type: none;
+}
+.p1 {
+  margin-right: 20px;
+}
+.a {
+  display: flex;
+}

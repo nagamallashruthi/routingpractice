@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.about-page {
+  height: 100vh;
+  background-image: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.about-head {
+  font-family: 'roboto';
+  font-size: 40px;
+  font-weight: bold;
+  color: #551e53;
+}
+.about-para {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #555555;
+}
